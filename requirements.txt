@@ -1,0 +1,5 @@
+# albumentations
+# flask
+# pretrainedmodels
+# torch==2.2.0
+# wtfml==0.0.2
